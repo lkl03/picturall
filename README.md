@@ -10,9 +10,9 @@ Picturall is a social media app created with ReactJS and Sanity where an user ca
 ## Built with
 
 - React.js
--Sanity.io
--Tailwind CSS
--Mobile-first workflow
+- Sanity.io
+- Tailwind CSS
+- Mobile-first workflow
 
 ## Author
 
